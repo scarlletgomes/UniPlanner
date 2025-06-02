@@ -1,3 +1,3 @@
 # UniPlanner
 
-https://scarlletgomes.github.io/UniPlanner/desenvolvedores.html
+(https://scarlletgomes.github.io/UniPlanner/)
