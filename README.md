@@ -1,3 +1,3 @@
 # UniPlanner
 
-(https://scarlletgomes.github.io/UniPlanner/)
+https://scarlletgomes.github.io/UniPlanner/
